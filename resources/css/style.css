@@ -20,7 +20,8 @@
 
 .stories {
   display: flex;
-  
+  justify-content: center;
+  margin-top: 17px;
 }
 /* Header */
 header {
@@ -63,10 +64,6 @@ header nav {
   width: 1300px;
   margin-top: 0px auto 78px auto;
   padding-top: 116px;
-}
-
-div {
-  border: 1px solid black;
 }
 
 .column {
